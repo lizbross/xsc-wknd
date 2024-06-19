@@ -31,7 +31,7 @@ main .adventure-details .side-bar dl {
 main .adventure-details .side-bar dt {
   color: var(--link-hover-color);
   font-size: x-small;
-  text-transform: capitalize;
+  text-transform: ;
   line-height: 6px;
   padding-bottom: 2px;
 }
