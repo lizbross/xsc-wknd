@@ -1,4 +1,4 @@
-body.adventures main .hero {
+iumbody.adventures main .hero {
   height: 300px;
 }
 
@@ -30,7 +30,7 @@ main .adventure-details .side-bar dl {
 
 main .adventure-details .side-bar dt {
   color: var(--link-hover-color);
-  font-size: 40px;
+  font-size: x-small;
   text-transform: capitalize;
   line-height: 6px;
   padding-bottom: 2px;
